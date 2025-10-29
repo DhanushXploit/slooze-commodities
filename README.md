@@ -4,7 +4,7 @@ A modern, role-based commodities management system built with React and Tailwind
 
 ## 🚀 Live Demo
 
-[View Live Application](https://slooze-commodities.vercel.app/login) <!-- Add your deployed URL here -->
+[View Live Application](https://slooze-commodities.vercel.app) <!-- Add your deployed URL here -->
 
 ## ✨ Features
 
